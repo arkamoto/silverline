@@ -1244,7 +1244,8 @@ export default function SilverlineLanding() {
             }}
           >
             <span style={{ color: "#636e72", fontSize: "0.85rem" }}>
-              © 2025 Silverline Smarthome System. All rights reserved.
+              © 2026 Silverline Smarthome System | All rights reserved |
+              Designed by Arief Kamaluddin
             </span>
             <div style={{ display: "flex", gap: 24 }}>
               {["Privacy Policy", "Terms & Conditions", "Sitemap"].map(
